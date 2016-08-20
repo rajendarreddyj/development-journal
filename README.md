@@ -1,2 +1,2 @@
-# blog
-My Blogging Site
+# development-journal
+My Java Development Journal Site
