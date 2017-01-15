@@ -7,7 +7,7 @@
 
 # Site settings
 title: Posts
-email: rajendarreddy@gmail.com
+email: rajendarreddyj@gmail.com
 
 #write html inside the double quotes to display in jumbotron
 description: "<h3>Hello, world!</h3><h1>My Java Development Journal</h1><h3>#java, #javaee, #spring, #hibenate, #android, #javascript, #devops, #linux ...</h3>Hope you like it!"
