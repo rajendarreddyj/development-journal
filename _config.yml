@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Posts
+email: rajendarreddy@gmail.com
+
+#write html inside the double quotes to display in jumbotron
+description: "<h3>Hello, world!</h3><h1>My Java Development Journal</h1><h3>#java, #javaee, #spring, #hibenate, #android, #javascript, #devops, #linux ...</h3>Hope you like it!"
+
+
+
+baseurl: "/development-journal" # the subpath of your site, e.g. /blog
+url: "http://rajendarreddyj.github.io" # the base hostname & protocol for your site
+twitter_username: rajendarreddyj
+github_username:  rajendarreddyj
+
+# Build settings
+markdown: kramdown
