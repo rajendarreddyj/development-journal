@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intall Oracle JDK 10 in Ubuntu"
-date:   2017-07-12 14:39:43 -0500
+date:   2018-07-12 14:39:43 -0500
 author: rajendarreddy jagapathi
 categories: java
 ---
