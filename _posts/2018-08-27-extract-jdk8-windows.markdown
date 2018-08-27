@@ -43,7 +43,7 @@ for /r %x in (*.pack) do .\bin\unpack200 -r "%x" "%~dx%~px%~nx.jar"
 - Run below command to extract cab.
 
 ```
-extract 110
+extrac32 110
 ```
 - it is extracted to src.zip in 1033/JAVA_CAB9.
 
