@@ -72,8 +72,8 @@ permalink: /resources/
 
 - Microservices
   - Frameworks
-    -[Swagger](https://swagger.io/)
-    -[Eventuate](http://eventuate.io/)
+    - [Swagger](https://swagger.io/)
+    - [Eventuate](http://eventuate.io/)
     
 - Version Control Tools or Source Control Management(SCM) Tools
   - [Git](https://git-scm.com/)
