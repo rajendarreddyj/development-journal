@@ -32,12 +32,34 @@ permalink: /resources/
     - [Eclipse Downloads](http://www.eclipse.org/downloads/packages/)
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     - [Netbeans](https://netbeans.apache.org/)
+  - Application Servers
+    - [Tomcat](http://tomcat.apache.org/)
+    - [jetty](https://www.eclipse.org/jetty/)
+    - [Oracle Weblogic](https://www.oracle.com/middleware/technologies/weblogic.html)
+    - [IBM Webspere](https://www.ibm.com/cloud/websphere-application-platform)
+    - [Wildfly](http://www.wildfly.org/)
+    - [openliberty](https://openliberty.io/)
+    - [Tom EE](http://tomee.apache.org/index.html)
   - Other Resources
-    - [stackoverflow java](https://stackoverflow.com/tags/java)
-    - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news)
-    - [JavaRanch](https://javaranch.com/)
-    - [TheServerSide](https://www.theserverside.com/)
-    - [enthuware](http://www.enthuware.com)
+    - Magazines
+      - [Java Magazine](http://www.javamagazine.mozaicreader.com)
+      - [ADT magazine](https://adtmag.com)
+      - [jax magazine](https://jaxenter.com/jax-magazine)
+      - [Java Mag](http://javamag.org/)
+    - Blogs
+      - [stackoverflow java](https://stackoverflow.com/tags/java)
+      - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news)
+      - [JavaRanch](https://javaranch.com/)
+      - [TheServerSide](https://www.theserverside.com/)
+      - [ReadLearnCode](https://readlearncode.com/)
+      - [JavaWorld](https://www.javaworld.com/)
+      - [Java Code Geeks](https://www.javacodegeeks.com/)
+      - [Thoughts on Java](https://www.thoughts-on-java.org/blog/)
+      - [Devx](http://www.devx.com/)
+      - [codefx](https://blog.codefx.org/)
+      - [enthuware](http://www.enthuware.com)
+    - Tutorials
+      - [Sitepoint](https://www.sitepoint.com/)
 
 - Java Frameworks
   - [Spring](https://spring.io/)
@@ -47,3 +69,34 @@ permalink: /resources/
     - [Spring Data](https://spring.io/projects/spring-data)
     - [Spring Cloud](https://projects.spring.io/spring-cloud/)
   - [Hibernate](http://hibernate.org/)
+
+- Microservices
+  - Frameworks
+    -[Swagger](https://swagger.io/)
+    -[Eventuate](http://eventuate.io/)
+    
+- Version Control Tools or Source Control Management(SCM) Tools
+  - [Git](https://git-scm.com/)
+  - [Subversion](https://subversion.apache.org/)
+  - [Mercurial](https://www.mercurial-scm.org/)
+  - [Team Foundation Server](https://visualstudio.microsoft.com/tfs/)
+  - [IBM Clearcase](https://www.ibm.com/us-en/marketplace/rational-clearcase)
+
+- Source Code Hosting Providers
+  -[Github](https://github.com/)
+  -[Bitbucket](https://bitbucket.org/)
+  -[Gitlab](https://gitlab.com/)
+  
+- Continous Integration(CI) or Coninous Delivery(CD) Tools
+  - [Jenkins](https://jenkins.io/)
+  - [Travis CI](https://travis-ci.org/)
+  - [Teamcity](https://www.jetbrains.com/teamcity)
+  - [GoCD](https://www.gocd.org/)
+  - [Bamboo](https://www.atlassian.com/software/bamboo)
+  - [Codefresh](https://codefresh.io/)
+  - [Codeship](https://codeship.com/)
+  - [Circleci](https://circleci.com/)
+  - [Gitlab CI](https://about.gitlab.com/product/ci/)
+  
+  
+  
