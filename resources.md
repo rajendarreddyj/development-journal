@@ -83,9 +83,9 @@ permalink: /resources/
   - [IBM Clearcase](https://www.ibm.com/us-en/marketplace/rational-clearcase)
 
 - Source Code Hosting Providers
-  -[Github](https://github.com/)
-  -[Bitbucket](https://bitbucket.org/)
-  -[Gitlab](https://gitlab.com/)
+  - [Github](https://github.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitlab](https://gitlab.com/)
   
 - Continous Integration(CI) or Coninous Delivery(CD) Tools
   - [Jenkins](https://jenkins.io/)
